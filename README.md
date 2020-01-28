@@ -60,11 +60,11 @@ php artisan serve
 ```
 
 ## Screenshots
-![Imgur](https://imgur.com/Uc5M0H9)
+![Imgur](https://imgur.com/Uc5M0H9.png)
 
-![Imgur](https://imgur.com/iNyVoum)
+![Imgur](https://imgur.com/iNyVoum.png)
 
-![Imgur](https://imgur.com/U59zLcX)
+![Imgur](https://imgur.com/U59zLcX.png)
 
 
 ## License
